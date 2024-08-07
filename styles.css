@@ -4,6 +4,9 @@
     border: 1px solid #ccc;
     border-radius: 10px;
     width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
 }
 
 .hero-image {
@@ -40,3 +43,5 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+
